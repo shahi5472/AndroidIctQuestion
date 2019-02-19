@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Ict Question</string>
+
+    <string name="app_version">Version 1.0</string>
+    <string name="sendUs">Send me some feedback!</string>
+    <string name="contactInfo">Found a bug? Have a Suggestion? Require a new Concept and design? Fill out the form below and i will take a look!</string>
+
+</resources>

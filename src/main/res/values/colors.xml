@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black">#040505</color>
+    <color name="LIGHTSLATEGRAY">#778899</color>
+    <color name="LIGHTSKYBLUE">#87CEFA</color>
+    <color name="MEDIUMTURQUOISE">#48D1CC</color>
+    <color name="LIGHTSEAGREEN">#20B2AA</color>
+    <color name="name">#33FFCC</color>
+    <color name="paragraphcolor">#17202A</color>
+    <color name="paragraphcolorstartba">#2C3E50</color>
+    <color name="compositionActionBar">#1B4F72</color>
+    <color name="compositionStatusBar">#3498DB</color>
+    <color name="letterActionBar">#0B5345</color>
+    <color name="letterStatusBar">#16A085</color>
+    <color name="dialogueActionBar">#424949</color>
+    <color name="dialogueStatusBar">#7F8C8D</color>
+    <color name="storyActionBar">#A45D02</color>
+    <color name="storyStatusBar">#E58204</color>
+    <color name="nevigation">#34495E</color>
+    <color name="about_color">#be34495e</color>
+    <color name="white">#FDFEFE</color>
+    <color name="background">#BDC3C7</color>
+
+</resources>

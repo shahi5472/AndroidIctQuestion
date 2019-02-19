@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/textViewQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/textViewAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Answer"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/textViewOPTION1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Answer"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/textViewOPTION2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Answer"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/textViewOPTION3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Answer"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/textViewOPTION4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Answer"
+        android:textAlignment="textStart"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        tools:ignore="RtlCompat" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/black" />
+
+</LinearLayout>
